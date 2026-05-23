@@ -7,7 +7,7 @@ AstraDB is a vector database engine built from scratch in C++17. It implements H
 ---
 
 ![C++17](https://img.shields.io/badge/C%2B%2B-17-blue?style=flat-square&logo=c%2B%2B)
-![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
+![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-red?style=flat-square)
 ![Build](https://img.shields.io/badge/build-passing-brightgreen?style=flat-square)
 ![Ollama](https://img.shields.io/badge/Ollama-nomic--embed--text%20%7C%20llama3.2-orange?style=flat-square)
 ![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20macOS%20%7C%20Windows-lightgrey?style=flat-square)
@@ -811,7 +811,7 @@ Understanding these systems at this level is the prerequisite for building, debu
 
 ---
 
-# License
+## License
 
 Copyright © 2026 Suman Dey. All rights reserved.
 
